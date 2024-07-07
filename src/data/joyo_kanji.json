@@ -744,7 +744,7 @@
         "default_reading": "イツ"
       },
       {
-        "reading": "ひ",
+        "reading": "ひと",
         "examples": [
           "一息",
           "一筋",
@@ -932,7 +932,7 @@
         "default_reading": "イン"
       },
       {
-        "reading": "み",
+        "reading": "みだら",
         "examples": [
           "淫らだ"
         ],
@@ -1124,7 +1124,7 @@
         "default_reading": "あめ"
       },
       {
-        "reading": "あ",
+        "reading": "あま",
         "examples": [
           "雨雲",
           "雨戸",
@@ -1137,7 +1137,7 @@
   "唄": {
     "readings": [
       {
-        "reading": "う",
+        "reading": "うた",
         "examples": [
           "小唄",
           "長唄"
@@ -1334,7 +1334,7 @@
         "default_reading": "さかえる"
       },
       {
-        "reading": "はえ",
+        "reading": "は",
         "examples": [
           "栄えある",
           "見栄え",
@@ -1776,7 +1776,7 @@
         "default_reading": "エン"
       },
       {
-        "reading": "そ",
+        "reading": "その",
         "examples": [
           "学びの園",
           "花園"
@@ -2418,7 +2418,7 @@
         "default_reading": "オン"
       },
       {
-        "reading": "あた",
+        "reading": "あたたか",
         "examples": [
           "温かだ"
         ],
@@ -2459,7 +2459,7 @@
         "default_reading": "オン"
       },
       {
-        "reading": "お",
+        "reading": "おだやか",
         "examples": [
           "穏やかだ"
         ],
@@ -2689,7 +2689,7 @@
         "default_reading": "ケ"
       },
       {
-        "reading": "か",
+        "reading": "かり",
         "examples": [
           "仮の住まい",
           "仮に",
@@ -2718,7 +2718,7 @@
         "default_reading": "なに"
       },
       {
-        "reading": "な",
+        "reading": "なん",
         "examples": [
           "何本",
           "何十",
@@ -2949,7 +2949,7 @@
         "default_reading": "いえ"
       },
       {
-        "reading": "や",
+        "reading": "や ",
         "examples": [
           "家主",
           "借家"
@@ -4109,7 +4109,7 @@
         "default_reading": "ガイ"
       },
       {
-        "reading": "が",
+        "reading": "がけ",
         "examples": [
           "崖下"
         ],
@@ -4501,7 +4501,7 @@
         "default_reading": "カク"
       },
       {
-        "reading": "た",
+        "reading": "たしか",
         "examples": [
           "確かだ",
           "確かさ"
@@ -4703,7 +4703,7 @@
   "潟": {
     "readings": [
       {
-        "reading": "か",
+        "reading": "かた",
         "examples": [
           "干潟",
           "○○潟"
@@ -4790,7 +4790,7 @@
         "default_reading": "わる"
       },
       {
-        "reading": "わ",
+        "reading": "わり",
         "examples": [
           "割がいい",
           "割合",
@@ -4862,7 +4862,7 @@
         "default_reading": "すべる"
       },
       {
-        "reading": "な",
+        "reading": "なめらか",
         "examples": [
           "滑らかだ"
         ],
@@ -4973,7 +4973,7 @@
         "default_reading": "ほす"
       },
       {
-        "reading": "ひ",
+        "reading": "ひる",
         "examples": [
           "干上がる",
           "干物",
@@ -5652,7 +5652,7 @@
         "default_reading": "ゆるい"
       },
       {
-        "reading": "ゆ",
+        "reading": "ゆるやか",
         "examples": [
           "緩やかだ"
         ],
@@ -6520,7 +6520,7 @@
         "default_reading": "キ"
       },
       {
-        "reading": "い",
+        "reading": "いく",
         "examples": [
           "幾つ",
           "幾ら",
@@ -7099,7 +7099,7 @@
         "default_reading": "ギャク"
       },
       {
-        "reading": "さ",
+        "reading": "さか",
         "examples": [
           "逆立つ",
           "逆さ",
@@ -7155,7 +7155,7 @@
         "default_reading": "ク"
       },
       {
-        "reading": "ここ",
+        "reading": "ここの",
         "examples": [
           "九日",
           "九重"
@@ -7374,7 +7374,7 @@
         "default_reading": "キュウ"
       },
       {
-        "reading": "う",
+        "reading": "うす",
         "examples": [
           "石臼"
         ],
@@ -7870,7 +7870,7 @@
         "default_reading": "ゴ"
       },
       {
-        "reading": "お",
+        "reading": "おん",
         "examples": [
           "御中",
           "御礼"
@@ -7926,7 +7926,7 @@
         "default_reading": "キョウ"
       },
       {
-        "reading": "と",
+        "reading": "とも",
         "examples": [
           "共に",
           "共々",
@@ -8212,7 +8212,7 @@
         "default_reading": "むね"
       },
       {
-        "reading": "む",
+        "reading": "むな",
         "examples": [
           "胸板",
           "胸毛",
@@ -8722,7 +8722,7 @@
         "default_reading": "きわまる"
       },
       {
-        "reading": "き",
+        "reading": "きわみ",
         "examples": [
           "極まる",
           "極まり"
@@ -8840,7 +8840,7 @@
         "default_reading": "かね"
       },
       {
-        "reading": "か",
+        "reading": "かな",
         "examples": [
           "金物",
           "金具",
@@ -8950,7 +8950,7 @@
         "default_reading": "キン"
       },
       {
-        "reading": "わ",
+        "reading": "わずか",
         "examples": [
           "僅かだ"
         ],
@@ -8994,7 +8994,7 @@
         "default_reading": "キン"
       },
       {
-        "reading": "にし",
+        "reading": "にしき",
         "examples": [
           "錦絵"
         ],
@@ -9214,7 +9214,7 @@
         "default_reading": "グ"
       },
       {
-        "reading": "お",
+        "reading": "おろか",
         "examples": [
           "愚かだ",
           "愚かしい"
@@ -9922,7 +9922,7 @@
         "default_reading": "かるい"
       },
       {
-        "reading": "か",
+        "reading": "かろやか",
         "examples": [
           "軽やかだ"
         ],
@@ -10182,7 +10182,7 @@
         "default_reading": "ゲキ"
       },
       {
-        "reading": "す",
+        "reading": "すき",
         "examples": [
           "隙間"
         ],
@@ -10248,7 +10248,7 @@
   "桁": {
     "readings": [
       {
-        "reading": "け",
+        "reading": "けた",
         "examples": [
           "桁違い",
           "橋桁"
@@ -10687,7 +10687,7 @@
         "default_reading": "ケン"
       },
       {
-        "reading": "こ",
+        "reading": "こぶし",
         "examples": [
           "握り拳"
         ],
@@ -10727,7 +10727,7 @@
         "default_reading": "ケン"
       },
       {
-        "reading": "す",
+        "reading": "すこやか",
         "examples": [
           "健やかだ"
         ],
@@ -10828,7 +10828,7 @@
         "default_reading": "きらう"
       },
       {
-        "reading": "い",
+        "reading": "いや",
         "examples": [
           "嫌だ",
           "嫌がる",
@@ -11174,7 +11174,7 @@
         "default_reading": "いう"
       },
       {
-        "reading": "こ",
+        "reading": "こと",
         "examples": [
           "言葉",
           "寝言"
@@ -11353,7 +11353,7 @@
         "default_reading": "ゴン"
       },
       {
-        "reading": "おご",
+        "reading": "おごそか",
         "examples": [
           "厳かだ"
         ],
@@ -11438,7 +11438,7 @@
         "default_reading": "ふるい"
       },
       {
-        "reading": "ふるす",
+        "reading": "ふる",
         "examples": [
           "使い古す"
         ],
@@ -11515,7 +11515,7 @@
         "default_reading": "コ"
       },
       {
-        "reading": "ま",
+        "reading": "また",
         "examples": [
           "内股",
           "大股"
@@ -11779,7 +11779,7 @@
         "default_reading": "ゴ"
       },
       {
-        "reading": "い",
+        "reading": "いつ",
         "examples": [
           "五日"
         ],
@@ -12263,7 +12263,7 @@
         "default_reading": "まぜる"
       },
       {
-        "reading": "かう",
+        "reading": "か",
         "examples": [
           "飛び交う"
         ],
@@ -12558,7 +12558,7 @@
         "default_reading": "コウ"
       },
       {
-        "reading": "さ",
+        "reading": "さら",
         "examples": [
           "更に",
           "今更"
@@ -12885,7 +12885,7 @@
         "default_reading": "コウ"
       },
       {
-        "reading": "そうろ",
+        "reading": "そうろう",
         "examples": [
           "候文",
           "居候"
@@ -13164,7 +13164,7 @@
         "default_reading": "あわてる"
       },
       {
-        "reading": "あわただ",
+        "reading": "あわただしい  ",
         "examples": [
           "慌ただしい",
           "慌ただしさ",
@@ -13977,7 +13977,7 @@
         "default_reading": "まぜる"
       },
       {
-        "reading": "こむ ",
+        "reading": "こむ  ",
         "examples": [
           "混む",
           "混み合う",
@@ -14063,7 +14063,7 @@
         "default_reading": "コン"
       },
       {
-        "reading": "ねん",
+        "reading": "ねんごろ",
         "examples": [
           "懇ろだ"
         ],
@@ -14546,7 +14546,7 @@
         "default_reading": "ほそる"
       },
       {
-        "reading": "こ",
+        "reading": "こまか",
         "examples": [
           "細かだ"
         ],
@@ -15377,7 +15377,7 @@
         "default_reading": "ザン"
       },
       {
-        "reading": "み",
+        "reading": "みじめ",
         "examples": [
           "惨めだ"
         ],
@@ -15412,7 +15412,7 @@
         "default_reading": "うまれる"
       },
       {
-        "reading": "う",
+        "reading": "うぶ",
         "examples": [
           "産湯",
           "産着",
@@ -15794,7 +15794,7 @@
         "default_reading": "よっつ"
       },
       {
-        "reading": "よ",
+        "reading": "よん",
         "examples": [
           "四回",
           "四階"
@@ -17077,7 +17077,7 @@
         "default_reading": "ななつ"
       },
       {
-        "reading": "な",
+        "reading": "なの",
         "examples": [
           "七日"
         ],
@@ -17518,7 +17518,7 @@
         "default_reading": "にえる"
       },
       {
-        "reading": "にやす",
+        "reading": "に",
         "examples": [
           "業を煮やす"
         ],
@@ -18002,7 +18002,7 @@
         "default_reading": "シュ"
       },
       {
-        "reading": "こ",
+        "reading": "こと",
         "examples": [
           "殊に",
           "殊の外",
@@ -18046,7 +18046,7 @@
         "default_reading": "さけ"
       },
       {
-        "reading": "さ",
+        "reading": "さか",
         "examples": [
           "酒屋",
           "酒場",
@@ -18338,7 +18338,7 @@
         "default_reading": "ふね"
       },
       {
-        "reading": "ふ",
+        "reading": "ふな",
         "examples": [
           "舟遊び",
           "舟宿",
@@ -18925,7 +18925,7 @@
         "default_reading": "ニュウ"
       },
       {
-        "reading": "や",
+        "reading": "やわらか",
         "examples": [
           "柔らかだ"
         ],
@@ -19652,7 +19652,7 @@
         "default_reading": "はじめて"
       },
       {
-        "reading": "は",
+        "reading": "はつ",
         "examples": [
           "初の受賞",
           "初雪",
@@ -19661,7 +19661,7 @@
         "default_reading": "はつ"
       },
       {
-        "reading": "う",
+        "reading": "うい",
         "examples": [
           "初陣",
           "初々しい"
@@ -20949,7 +20949,7 @@
         "default_reading": "うえ"
       },
       {
-        "reading": "う",
+        "reading": "うわ",
         "examples": [
           "上着",
           "上積み"
@@ -21159,7 +21159,7 @@
         "default_reading": "つね"
       },
       {
-        "reading": "と",
+        "reading": "とこ",
         "examples": [
           "常夏"
         ],
@@ -21900,7 +21900,7 @@
         "default_reading": "かみ"
       },
       {
-        "reading": "か",
+        "reading": "かん",
         "examples": [
           "神主"
         ],
@@ -22018,7 +22018,7 @@
         "default_reading": "シン"
       },
       {
-        "reading": "ま",
+        "reading": "ま ",
         "examples": [
           "真南",
           "真新しい",
@@ -22235,14 +22235,14 @@
         "default_reading": "あたらしい"
       },
       {
-        "reading": "あ",
+        "reading": "あらた",
         "examples": [
           "新ただ"
         ],
         "default_reading": "あらた"
       },
       {
-        "reading": "に",
+        "reading": "にい",
         "examples": [
           "新妻",
           "新盆"
@@ -22447,7 +22447,7 @@
         "default_reading": "つきる"
       },
       {
-        "reading": "つかす",
+        "reading": "つ",
         "examples": [
           "愛想を尽かす"
         ],
@@ -23079,7 +23079,7 @@
         "default_reading": "ただす"
       },
       {
-        "reading": "ま",
+        "reading": "まさ",
         "examples": [
           "正に",
           "正夢"
@@ -23179,7 +23179,7 @@
         "default_reading": "き"
       },
       {
-        "reading": "な",
+        "reading": "なま",
         "examples": [
           "生の野菜",
           "生水",
@@ -23283,7 +23283,7 @@
         "default_reading": "こえ"
       },
       {
-        "reading": "こ",
+        "reading": "こわ",
         "examples": [
           "声色"
         ],
@@ -23627,7 +23627,7 @@
         "default_reading": "さかる"
       },
       {
-        "reading": "さ",
+        "reading": "さかん",
         "examples": [
           "盛んだ",
           "盛んに"
@@ -23821,7 +23821,7 @@
         "default_reading": "しず"
       },
       {
-        "reading": "し",
+        "reading": "しずか",
         "examples": [
           "静かだ"
         ],
@@ -23941,7 +23941,7 @@
         "default_reading": "セキ"
       },
       {
-        "reading": "ゆ",
+        "reading": "ゆう",
         "examples": [
           "夕方",
           "夕日",
@@ -24867,7 +24867,7 @@
         "default_reading": "ふね"
       },
       {
-        "reading": "ふ",
+        "reading": "ふな",
         "examples": [
           "船旅",
           "船賃"
@@ -25135,7 +25135,7 @@
         "default_reading": "セン"
       },
       {
-        "reading": "あ",
+        "reading": "あざやか",
         "examples": [
           "鮮やかだ"
         ],
@@ -25553,7 +25553,7 @@
         "default_reading": "ソウ"
       },
       {
-        "reading": "ふ",
+        "reading": "ふた",
         "examples": [
           "双子",
           "双葉"
@@ -25701,7 +25701,7 @@
         "default_reading": "ショウ"
       },
       {
-        "reading": "あ",
+        "reading": "あい",
         "examples": [
           "相手",
           "相宿"
@@ -25929,7 +25929,7 @@
         "default_reading": "ソウ"
       },
       {
-        "reading": "さ",
+        "reading": "さわやか",
         "examples": [
           "爽やかだ"
         ],
@@ -26627,7 +26627,7 @@
         "default_reading": "はやまる"
       },
       {
-        "reading": "す",
+        "reading": "すみやか",
         "examples": [
           "速やかだ"
         ],
@@ -27486,7 +27486,7 @@
         "default_reading": "タイ"
       },
       {
-        "reading": "お",
+        "reading": "おお",
         "examples": [
           "大型",
           "大通り",
@@ -27555,7 +27555,7 @@
         "default_reading": "よ"
       },
       {
-        "reading": "し",
+        "reading": "しろ",
         "examples": [
           "代物",
           "苗代"
@@ -28286,7 +28286,7 @@
         "default_reading": "ダン"
       },
       {
-        "reading": "あた",
+        "reading": "あたたか",
         "examples": [
           "暖かだ"
         ],
@@ -29989,7 +29989,7 @@
   "坪": {
     "readings": [
       {
-        "reading": "つ",
+        "reading": "つぼ",
         "examples": [
           "坪数",
           "建坪"
@@ -30009,7 +30009,7 @@
         "default_reading": "つめ"
       },
       {
-        "reading": "つ",
+        "reading": "つま",
         "examples": [
           "爪先",
           "爪弾く"
@@ -30161,7 +30161,7 @@
         "default_reading": "さだまる"
       },
       {
-        "reading": "さ",
+        "reading": "さだか",
         "examples": [
           "定かだ"
         ],
@@ -30923,7 +30923,7 @@
         "default_reading": "テン"
       },
       {
-        "reading": "と",
+        "reading": "との",
         "examples": [
           "殿様",
           "殿方"
@@ -31537,7 +31537,7 @@
         "default_reading": "トウ"
       },
       {
-        "reading": "か",
+        "reading": "から",
         "examples": [
           "唐織",
           "唐草模様"
@@ -31756,7 +31756,7 @@
         "default_reading": "むね"
       },
       {
-        "reading": "む",
+        "reading": "むな",
         "examples": [
           "棟木"
         ],
@@ -31935,7 +31935,7 @@
         "default_reading": "いね"
       },
       {
-        "reading": "い",
+        "reading": "いな",
         "examples": [
           "稲作",
           "稲穂"
@@ -32131,7 +32131,7 @@
         "default_reading": "ドウ"
       },
       {
-        "reading": "ほ",
+        "reading": "ほら",
         "examples": [
           "洞穴"
         ],
@@ -32369,7 +32369,7 @@
         "default_reading": "える"
       },
       {
-        "reading": "うる",
+        "reading": "う",
         "examples": [
           "得るところ",
           "書き得る"
@@ -32663,7 +32663,7 @@
         "default_reading": "どんぶり"
       },
       {
-        "reading": "ど",
+        "reading": "どん",
         "examples": [
           "牛丼",
           "天丼"
@@ -32799,7 +32799,7 @@
         "default_reading": "ナン"
       },
       {
-        "reading": "や",
+        "reading": "やわらか",
         "examples": [
           "軟らかだ"
         ],
@@ -32826,7 +32826,7 @@
         "default_reading": "ナン"
       },
       {
-        "reading": "かたい",
+        "reading": "かた",
         "examples": [
           "許し難い",
           "有り難い"
@@ -32988,7 +32988,7 @@
         "default_reading": "ニュウ"
       },
       {
-        "reading": "いる",
+        "reading": "い",
         "examples": [
           "寝入る",
           "大入り",
@@ -33954,7 +33954,7 @@
         "default_reading": "しろ"
       },
       {
-        "reading": "し",
+        "reading": "しら",
         "examples": [
           "白壁",
           "白む",
@@ -34332,7 +34332,7 @@
         "default_reading": "やっつ"
       },
       {
-        "reading": "よ",
+        "reading": "よう",
         "examples": [
           "八日"
         ],
@@ -35077,7 +35077,7 @@
         "default_reading": "かれ"
       },
       {
-        "reading": "か",
+        "reading": "かの",
         "examples": [
           "彼女"
         ],
@@ -35437,7 +35437,7 @@
         "default_reading": "ミ"
       },
       {
-        "reading": "ま",
+        "reading": "まゆ",
         "examples": [
           "眉毛"
         ],
@@ -35565,7 +35565,7 @@
         "default_reading": "ヒツ"
       },
       {
-        "reading": "ひ",
+        "reading": "ひき",
         "examples": [
           "数匹"
         ],
@@ -35819,7 +35819,7 @@
         "default_reading": "なえ"
       },
       {
-        "reading": "な",
+        "reading": "なわ",
         "examples": [
           "苗代"
         ],
@@ -36633,7 +36633,7 @@
         "default_reading": "かぜ"
       },
       {
-        "reading": "か",
+        "reading": "かざ",
         "examples": [
           "風上",
           "風車"
@@ -37155,7 +37155,7 @@
         "default_reading": "モン"
       },
       {
-        "reading": "ふ",
+        "reading": "ふみ",
         "examples": [
           "恋文"
         ],
@@ -37239,7 +37239,7 @@
         "default_reading": "たいら"
       },
       {
-        "reading": "ひ",
+        "reading": "ひら",
         "examples": [
           "平手",
           "平謝り",
@@ -37476,7 +37476,7 @@
         "default_reading": "ヘイ"
       },
       {
-        "reading": "も",
+        "reading": "もち",
         "examples": [
           "餅屋",
           "尻餅"
@@ -37622,7 +37622,7 @@
         "default_reading": "ヘン"
       },
       {
-        "reading": "か",
+        "reading": "かた",
         "examples": [
           "片方",
           "片手",
@@ -38122,7 +38122,7 @@
         "default_reading": "ホウ"
       },
       {
-        "reading": "か",
+        "reading": "かた",
         "examples": [
           "お乗りの方",
           "話し方",
@@ -38525,7 +38525,7 @@
         "default_reading": "ホウ"
       },
       {
-        "reading": "は",
+        "reading": "はち",
         "examples": [
           "蜜蜂"
         ],
@@ -38545,7 +38545,7 @@
         "default_reading": "ホウ"
       },
       {
-        "reading": "ゆ",
+        "reading": "ゆたか",
         "examples": [
           "豊かだ"
         ],
@@ -38641,7 +38641,7 @@
         "default_reading": "モウ"
       },
       {
-        "reading": "ない",
+        "reading": "ない ",
         "examples": [
           "亡い",
           "亡き人",
@@ -39158,7 +39158,7 @@
         "default_reading": "ボク"
       },
       {
-        "reading": "ま",
+        "reading": "まき",
         "examples": [
           "牧場"
         ],
@@ -40106,7 +40106,7 @@
         "default_reading": "あからむ"
       },
       {
-        "reading": "あ",
+        "reading": "あきらか",
         "examples": [
           "明らかだ"
         ],
@@ -40305,7 +40305,7 @@
         "default_reading": "メン"
       },
       {
-        "reading": "お",
+        "reading": "おも",
         "examples": [
           "川の面",
           "面影",
@@ -40630,7 +40630,7 @@
         "default_reading": "とい"
       },
       {
-        "reading": "と",
+        "reading": "とん",
         "examples": [
           "問屋"
         ],
@@ -40820,7 +40820,7 @@
   "闇": {
     "readings": [
       {
-        "reading": "や",
+        "reading": "やみ",
         "examples": [
           "闇夜",
           "暗闇"
@@ -42309,7 +42309,7 @@
         "default_reading": "ラン"
       },
       {
-        "reading": "あ",
+        "reading": "あい",
         "examples": [
           "藍色",
           "藍染め"
@@ -42695,7 +42695,7 @@
         "default_reading": "リュウ"
       },
       {
-        "reading": "た",
+        "reading": "たつ",
         "examples": [
           "竜巻"
         ],
@@ -43986,7 +43986,7 @@
         "default_reading": "ロウ"
       },
       {
-        "reading": "ほ",
+        "reading": "ほがらか",
         "examples": [
           "朗らかだ",
           "朗らかさ"
@@ -44127,7 +44127,7 @@
         "default_reading": "むっつ"
       },
       {
-        "reading": "む",
+        "reading": "むい",
         "examples": [
           "六日"
         ],
@@ -44219,7 +44219,7 @@
         "default_reading": "なごむ"
       },
       {
-        "reading": "な",
+        "reading": "なごやか",
         "examples": [
           "和やかだ"
         ],
@@ -44280,7 +44280,7 @@
   "脇": {
     "readings": [
       {
-        "reading": "わ",
+        "reading": "わき",
         "examples": [
           "脇腹",
           "両脇"
