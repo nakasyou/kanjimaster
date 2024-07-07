@@ -15,7 +15,6 @@ export interface Joyokanjis {
 export const joyokanji: Joyokanjis = JSON.parse(joyokanjiJSON)
 export const kanjis: string[] = Object.keys(joyokanji)
 export const getAllReadingsShuffled = () => {
-  console.log('a')
   const allReadings: {
     kanji: string
     readingIndex: number
