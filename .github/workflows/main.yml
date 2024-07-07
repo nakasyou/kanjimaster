@@ -20,7 +20,7 @@ jobs:
         uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: YOUR_ACCOUNT_ID
+          accountId: e59c4efd185d9b94549504183100de2e
           projectName: kanjimaster
           directory: dist
           # Optional: Enable this if you want to have GitHub Deployments triggered
